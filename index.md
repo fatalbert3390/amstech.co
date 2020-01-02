@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## AMS Tech Consulting
+### Computer Support
 
 You can use the [editor on GitHub](https://github.com/fatalbert3390/amstech.co/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
