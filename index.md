@@ -1,5 +1,6 @@
 ## AMS Tech Consulting
-### Computer Support
+
+### What We Do
 
 We provide IT consulting and support services in Livingston county and throughout southeastern Michigan.
 
@@ -7,11 +8,18 @@ We cater to both personal/home office and small business clients. Our aim is to 
 
 Give us a call (or use the Contact form) and we can talk about your needs and how we can cater a solution that is right for you!
 
+## Services We Provide
+
+- Computer repair
+- PC tune-ups
+- Backup solutions
+- System administration
+- Network administration
+- Cloud migrations
+- Remote support
+- Social media management
 
 
-You can use the [editor on GitHub](https://github.com/fatalbert3390/amstech.co/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
