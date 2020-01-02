@@ -1,4 +1,4 @@
-[Home](/index.md)   [About](/about.md)   [Contact Us](/contact.md)
+[Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)&nbsp;&nbsp;&nbsp;&nbsp;[Contact Us](/contact.md)
 
 ## AMS Tech Consulting
 
