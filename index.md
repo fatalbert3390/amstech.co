@@ -1,6 +1,6 @@
 [Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)
 
-## AMS Tech Consulting
+# AMS Tech Consulting
 
 ### What We Do
 
