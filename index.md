@@ -2,15 +2,15 @@
 
 # AMS Tech Consulting
 
-### What We Do
+### What I Do
 
-We provide IT consulting and support services in Livingston county and throughout southeastern Michigan.
+I provide IT consulting and support services in Livingston county and throughout southeastern Michigan.
 
-We cater to both personal/home office and small business clients. Our aim is to give you a cost-effective solution that is free of gimmicks and shortcuts. We will work with you to give you an affordable solution and will always be upfront and honest.
+I cater to both personal/home office and small business clients. My aim is to give you a cost-effective solution that is free of gimmicks and shortcuts. I will work with you to give you an affordable solution and will always be upfront and honest.
 
-Give us a call (or use the Contact form) and we can talk about your needs and how we can cater a solution that is right for you!
+Contact me below and we can talk about your needs and how I can cater a solution that is right for you!
 
-## Services We Provide
+## Services I Provide
 
 - Computer repair
 - PC tune-ups
