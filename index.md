@@ -1,4 +1,4 @@
-[Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)&nbsp;&nbsp;&nbsp;&nbsp;[Contact Us](/contact.md)
+[Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)
 
 ## AMS Tech Consulting
 
@@ -15,8 +15,7 @@ Give us a call (or use the Contact form) and we can talk about your needs and ho
 - Computer repair
 - PC tune-ups
 - Backup solutions
-- System administration
-- Network administration
+- System & Network administration
 - Cloud migrations
 - Remote support
 - Social media management
