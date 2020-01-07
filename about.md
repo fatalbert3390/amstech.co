@@ -1,8 +1,10 @@
 [Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)
 
-![This is me](./me.png)
+This is me:
 
-### Me:
+![me](./me.png)
+
+### About me:
 
 I'm Alex. Born and raised in Washington state, I made the move to Michigan in 2015 where I now happily reside with my wife and two children. I've been working with computers since I was old enough to dismantle one with a screwdriver. In my spare time I enjoy woodworking, small-scale farming, and pretentious coffee.
  
