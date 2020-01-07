@@ -1,6 +1,6 @@
 [Home](/index.md)&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md)
 
-![logo](/logo.jpg)
+![AMS Tech Consulting](./logo.jpg)
 
 ### What I Do
 
