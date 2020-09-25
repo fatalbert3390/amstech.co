@@ -4,7 +4,7 @@
 
 ### What I Do
 
-I provide IT consulting and support services in Livingston county and throughout southeastern Michigan.
+I provide IT consulting and support services throughout southeastern Michigan and beyond.
 
 I cater to both personal/home office and small business clients. My aim is to give you a cost-effective solution that is free of gimmicks and shortcuts. I will work with you to give you an affordable solution and will always be upfront and honest.
 
