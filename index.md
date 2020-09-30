@@ -12,10 +12,10 @@ Contact me below and we can talk about your needs and how I can cater a solution
 
 ## Services I Provide
 
+- Remote support
 - Computer repair
 - PC tune-ups
 - Backup solutions
 - System & Network administration
 - Cloud migrations
-- Remote support
 - Social media management
